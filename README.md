@@ -11,3 +11,6 @@ This project aims to predict the final price of residential homes in Ames, Iowa,
 ## Tools and Technologies
 - Pandas, NumPy, Matplotlib, Seaborn
 - Scikit-learn, LightGBM, XGBoost
+
+## Results
+- RMSE Score: 436785809.4228584
